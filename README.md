@@ -6,3 +6,5 @@
 2. [Python Cashier App](https://github.com/amyrasl/Cashier)
 
 3. [ReviewPrediction Project](https://github.com/amyrasl/ReviewPrediction)
+
+4. [Laravel simple e-commerce project](https://github.com/amyrasl/readandwaritedb)
