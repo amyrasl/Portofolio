@@ -5,3 +5,4 @@
 
 2. [Python Cashier App](https://github.com/amyrasl/Cashier)
 
+3. [ReviewPrediction Project](https://github.com/amyrasl/ReviewPrediction)
