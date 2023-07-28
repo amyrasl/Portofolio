@@ -9,5 +9,5 @@
 4. [ReviewPrediction Project](https://github.com/amyrasl/ReviewPrediction)
    <br>Prediksi review produk marketplace menggunakan python
 
-6. [Laravel simple e-commerce project](https://github.com/amyrasl/readandwaritedb)
+5. [Laravel simple e-commerce project](https://github.com/amyrasl/readandwaritedb)
    <br>Simple website e-commerce menggunakan Laravel
